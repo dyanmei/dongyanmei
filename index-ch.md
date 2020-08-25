@@ -3,7 +3,7 @@
 -->
 
 <div align="right">
-<a href="/index-ch.md">English</a>
+<a href="/index.md">English</a>
 </div>
 
 ## 欢迎来到董艳梅的个人主页 
