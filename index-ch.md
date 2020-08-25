@@ -1,4 +1,10 @@
+<!---
 [<p align="right">English</p>](index.md)
+-->
+
+<div align="right">
+<a href="/index-ch.md">English</a>
+</div>
 
 ## 欢迎来到董艳梅的个人主页 
 <table border="0">
