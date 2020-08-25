@@ -1,39 +1,34 @@
 ## Welcome to Yanmei Dong's Personal Homepage
 
-F:\Personal-Homepage\dongyanmei.jpg
+<table border="0">
+  <tr>
+    <td width="15%">
+      <img src="/dongyanmei.png" width="100%"> 
+    </td>
+    <td width="75%">
+      <h1>Yanmei Dong</h1>
+      <p>I am a teacher in Tus College of Digit at Guangxi University of Science and Technology (GXUST). I received my Ph.D in computer science and technology from Beijing Institute of Technology (BIT) in 2020, under the supervision of Prof. Mingtao Pei and Yunde Jia. I received the M.S. and B.S.degrees from BIT in 2015 and 2013, respectively. My research interests lie in the field of Computer Vision and Human-Computer Interaction.
+      </p>
+      <p><b>Email：dongyanmei@gxust.edu.cn</b></p>
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/dyanmei/dongyanmei/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Publications
+* <b>Yanmei Dong</b>, Yunde Jia, Weichao Shen, Yuwei Wu. Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems[J]. International Journal of Human-Computer Interaction (IJHCI), 2020, 36(8): 736–747. [URL](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1685194).
 
-### Markdown
+* <b>Yanmei Dong</b>, Mingtao Pei, Xiaofeng Liu, Meng Zhao. Scene-Specific Multiple Cues Integration for Multi-Person Tracking[J]. IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2019, DOI 10.1109/TCDS.2019.2928338. [URL](https://ieeexplore.ieee.org/document/8760586)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* <b>Yanmei Dong</b>, Min Yang, Mingtao Pei. Visual tracking with sparse correlation filters[C]. Proceedings of IEEE International Conference on Image Processing (ICIP), 2016: 439-443. [URL](https://ieeexplore.ieee.org/document/7532395)
 
-```markdown
-Syntax highlighted code block
+* <b>Yanmei Dong</b>, Mingtao Pei, Xiameng Qin. Vehicle Color Recognition Based on License Plate Color[C]. Proceedings of International Conference on Computational Intelligence and Security (CIS), 2014: 264-267. [URL](https://ieeexplore.ieee.org/document/7016897)
 
-# Header 1
-## Header 2
-### Header 3
+* 黄文举, <b>董艳梅</b>, 武玉伟, 贾云得. 一种双跟踪器动态级联的视觉跟踪方法[C]. 第二十届全国图象图形学学术会议(NCIG2020),2020. [URL]()
 
-- Bulleted
-- List
+* Lijia zhang, <b>Yanmei Dong</b>, and Yuwei Wu. Multi-layer CNN Features Aggregation for Real-time Visual Tracking[C]. Proceedings of International Conference on Pattern Recognition (ICPR), 2018: 2404-2409. [URL](https://ieeexplore.ieee.org/document/8546079)
 
-1. Numbered
-2. List
+* Changyong Yu, Min Yang, <b>Yanmei Dong</b>, Mingtao Pei, and Yunde Jia. Online Multi-Person Tracking based on Metric Learning[C]. Proceedings of Pacific Rim Conference on Multimedia (PCM), 2016: 130-140. [URL](https://link.springer.com/chapter/10.1007/978-3-319-48890-5_13)
 
-**Bold** and _Italic_ and `Code` text
+* Zhen Dong, Mingtao Pei, Yang He, Ting Liu, <b>Yanmei Dong</b>, and Yunde Jia. Vehicle Type Classification Using Unsupervised Convolutional Neural Network[C]. Proceedings of International Conference on Pattern Recognition (ICPR), 2014: 172-177. [URL](https://ieeexplore.ieee.org/document/6976750)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dyanmei/dongyanmei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
