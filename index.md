@@ -21,7 +21,7 @@
 <table border="0">
   <tr>
     <td width="25%">
-      <img src="dongyanmei.g" width="100%"> 
+      <img src="dongyanmei.jpg" width="100%"> 
     </td>
     <td width="75%">
       <h1>Yanmei Dong</h1>
