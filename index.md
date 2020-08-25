@@ -1,5 +1,6 @@
-## Welcome to Yanmei Dong's Personal Homepage
+[<p align="right">中文版</p>](index-ch.md)
 
+## Welcome to Yanmei Dong's Personal Homepage 
 <table border="0">
   <tr>
     <td width="15%">
