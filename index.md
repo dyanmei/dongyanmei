@@ -2,13 +2,20 @@
 <p align="right">中文</p>](index-ch.html)
 -->
 
-[//]: # (<a href="/index-ch.html">中文</a>)
+<!---(<a href="/index-ch.html">中文</a>)-->
 
 <div align="right">
 <a href="/dongyanmei/index-ch.html">中文</a>
 </div>
 
+<!---
+<div align="right">
+<a href="index-ch.html">中文</a>
+</div>
+-->
+<!---
 <div align="right">[中](index-ch.md)</div>
+-->
 
 ## Welcome to Yanmei Dong's Personal Homepage 
 <table border="0">
