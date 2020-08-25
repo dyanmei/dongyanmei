@@ -8,7 +8,7 @@
     </td>
     <td width="75%">
       <h1>Yanmei Dong</h1>
-      <p>I am a teacher in Tus College of Digit at Guangxi University of Science and Technology (GXUST). I received my Ph.D in computer science and technology from Beijing Institute of Technology (BIT) in 2020, under the supervision of Prof. Mingtao Pei and Yunde Jia, and received the M.S. and B.S.degrees from BIT in 2015 and 2013, respectively. My research interests lie in the field of Computer Vision and Human-Computer Interaction.
+      <p>I am a teacher in Tus College of Digit at Guangxi University of Science and Technology (GXUST). I received my Ph.D in computer science and technology from Beijing Institute of Technology (BIT) in 2020, under the supervision of Prof. Mingtao Pei and Yunde Jia, and I received the M.S. and B.S.degrees from BIT in 2015 and 2013, respectively. My research interests lie in the field of Computer Vision and Human-Computer Interaction.
       </p>
       <p><b>Email：dongyanmei@gxust.edu.cn</b></p>
     </td>
