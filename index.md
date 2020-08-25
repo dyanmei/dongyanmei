@@ -5,7 +5,7 @@
 [//]: # (<a href="/index-ch.html">中文</a>)
 
 <div align="right">
-<a href="/index-ch.html">中文</a>
+<a href="/index-ch.md">中文</a>
 </div>
 
 ## Welcome to Yanmei Dong's Personal Homepage 
