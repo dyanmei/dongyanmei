@@ -4,7 +4,7 @@
 <table border="0">
   <tr>
     <td width="15%">
-      <img src="/dongyanmei.png" width="100%"> 
+      <img src="https://github.com/dyanmei/dongyanmei/blob/gh-pages/dongyanmei.png" width="100%"> 
     </td>
     <td width="75%">
       <h1>董艳梅</h1>
