@@ -1,4 +1,6 @@
-[//]: # (<p align="right">中文</p>]index-ch.html)
+<!---
+<p align="right">中文</p>](index-ch.html)
+-->
 
 [//]: # (<a href="/index-ch.html">中文</a>)
 
