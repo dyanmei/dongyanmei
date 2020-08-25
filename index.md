@@ -17,7 +17,7 @@
 <div align="right">[中](index-ch.md)</div>
 -->
 
-## Welcome to Yanmei Dong's Personal Homepage 
+<!---## Welcome to Yanmei Dong's Personal Homepage -->
 <table border="0">
   <tr>
     <td width="15%">
