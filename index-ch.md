@@ -22,13 +22,13 @@
     </td>
     <td width="75%">
       <h1>董艳梅</h1>
-      <p style="text-align:justify; text-justify:inter-ideograph;">现任广西科技大学启迪数字学院教师。自2009年进入北京理工大学计算机学院学习，本科毕业后获得研究生保送资格，并分别于2013、2015和2020年获得学士、硕士和博士学位，师从裴明涛副教授和贾云得教授。研究兴趣包括计算机视觉和人机交互。
+     <p>现任广西科技大学启迪数字学院教师。自2009年进入北京理工大学计算机学院学习，本科毕业后获得研究生保送资格，并分别于2013、2015和2020年获得学士、硕士和博士学位，师从裴明涛副教授和贾云得教授。研究兴趣包括计算机视觉和人机交互。
       </p>
       <p><b>Email：dongyanmei@gxust.edu.cn</b></p>
     </td>
   </tr>
 </table>
-
+<!--- 两端对齐<p style="text-align:justify; text-justify:inter-ideograph;">-->
 
 ## 研究成果
 * <b>Yanmei Dong</b>, Yunde Jia, Weichao Shen, Yuwei Wu. [Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1685194)[J]. International Journal of Human-Computer Interaction (IJHCI), 2020, 36(8): 736–747.
