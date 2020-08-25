@@ -8,6 +8,8 @@
 <a href="/index-ch.md">中文</a>
 </div>
 
+[<div align="right">中</div>](index-ch.md)
+
 ## Welcome to Yanmei Dong's Personal Homepage 
 <table border="0">
   <tr>
