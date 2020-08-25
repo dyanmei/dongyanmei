@@ -8,7 +8,7 @@
 <a href="/index-ch.html">中文</a>
 </div>
 
-[<div align="right">中</div>](index-ch.md)
+<div align="right">[中](index-ch.md)</div>
 
 ## Welcome to Yanmei Dong's Personal Homepage 
 <table border="0">
