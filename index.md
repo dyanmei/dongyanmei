@@ -1,4 +1,4 @@
-[<p align="right">中文版</p>](index-ch.md)
+[<p align="right">中文版</p>](index-ch.html)
 
 ## Welcome to Yanmei Dong's Personal Homepage 
 <table border="0">
