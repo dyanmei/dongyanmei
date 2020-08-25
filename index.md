@@ -1,5 +1,7 @@
 [中文版](index-ch.md)
 
+[<div style="text-align: right"> 中文版 </div>](index-ch.md)
+
 ## Welcome to Yanmei Dong's Personal Homepage 
 <table border="0">
   <tr>
@@ -32,4 +34,3 @@
 * Changyong Yu, Min Yang, <b>Yanmei Dong</b>, Mingtao Pei, and Yunde Jia. [Online Multi-Person Tracking based on Metric Learning](https://link.springer.com/chapter/10.1007/978-3-319-48890-5_13)[C]. Proceedings of Pacific Rim Conference on Multimedia (PCM), 2016: 130-140.
 
 * Zhen Dong, Mingtao Pei, Yang He, Ting Liu, <b>Yanmei Dong</b>, and Yunde Jia. [Vehicle Type Classification Using Unsupervised Convolutional Neural Network](https://ieeexplore.ieee.org/document/6976750)[C]. Proceedings of International Conference on Pattern Recognition (ICPR), 2014: 172-177.
-
