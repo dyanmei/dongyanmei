@@ -36,7 +36,7 @@
 ## Publications
 * Yanmei Dong, Yunde Jia, Weichao Shen, Yuwei Wu. [Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1685194)[J]. International Journal of Human-Computer Interaction (IJHCI), 2020, 36(8): 736–747.
 
-* 黄文举, 董艳梅, 武玉伟, 贾云得. 一种双跟踪器动态级联的视觉跟踪方法[C]. 第二十届全国图象图形学学术会议(NCIG2020), 2020.
+* Wenju Huang, Yanmei Dong, Yuwei Wu, and Yunde Jia. Visual Tracking via Dynamic Cascading of Dual-Tracker[C]. The 20th National Conference on Image and Graphics (NCIG), 2020.
 
 * Yanmei Dong, Mingtao Pei, Xiaofeng Liu, Meng Zhao. [Scene-Specific Multiple Cues Integration for Multi-Person Tracking](https://ieeexplore.ieee.org/document/8760586)[J]. IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2019, DOI: 10.1109/TCDS.2019.2928338.
 
