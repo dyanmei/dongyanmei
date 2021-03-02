@@ -38,7 +38,7 @@
 
 * Wenju Huang, Yanmei Dong, Yuwei Wu, and Yunde Jia. Visual Tracking via Dynamic Cascading of Dual-Tracker[C]. The 20th National Conference on Image and Graphics (NCIG), 2020.
 
-* Yanmei Dong, Mingtao Pei, Xiaofeng Liu, Meng Zhao. [Scene-Specific Multiple Cues Integration for Multi-Person Tracking](https://ieeexplore.ieee.org/document/8760586)[J]. IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2019, DOI: 10.1109/TCDS.2019.2928338.
+* Yanmei Dong, Mingtao Pei, Xiaofeng Liu, Meng Zhao. [Scene-Specific Multiple Cues Integration for Multi-Person Tracking](https://ieeexplore.ieee.org/document/8760586)[J]. IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2020, 12(3): 511-518.
 
 * Lijia zhang, Yanmei Dong, and Yuwei Wu. [Multi-layer CNN Features Aggregation for Real-time Visual Tracking](https://ieeexplore.ieee.org/document/8546079)[C]. Proceedings of International Conference on Pattern Recognition (ICPR), 2018: 2404-2409.
 
