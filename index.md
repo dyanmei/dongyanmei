@@ -34,20 +34,20 @@
 
 
 ## Publications
-* Yanmei Dong, Mingtao Pei, Lijia Zhang, Bin Xu, Yuwei Wu, Yunde Jia. Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots. International Journal of Social Robotics(SORO)(Accepted).
+* Yanmei Dong, Mingtao Pei, Lijia Zhang, Bin Xu, Yuwei Wu, and Yunde Jia. Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots. International Journal of Social Robotics(SORO)(Accepted).
 
-* Yanmei Dong, Yunde Jia, Weichao Shen, Yuwei Wu. [Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1685194). International Journal of Human-Computer Interaction (IJHCI), 2020, 36(8): 736–747.
+* Yanmei Dong, Yunde Jia, Weichao Shen, and Yuwei Wu. [Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1685194). International Journal of Human-Computer Interaction (IJHCI), 2020, 36(8): 736–747.
 
-* Yanmei Dong, Mingtao Pei, Xiaofeng Liu, Meng Zhao. [Scene-Specific Multiple Cues Integration for Multi-Person Tracking](https://ieeexplore.ieee.org/document/8760586). IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2020, 12(3): 511-518.
+* Yanmei Dong, Mingtao Pei, Xiaofeng Liu, and Meng Zhao. [Scene-Specific Multiple Cues Integration for Multi-Person Tracking](https://ieeexplore.ieee.org/document/8760586). IEEE Transactions on Cognitive and Developmental Systems (TCDS), 2020, 12(3): 511-518.
 
 * Wenju Huang, Yanmei Dong, Yuwei Wu, and Yunde Jia. Visual Tracking via Dynamic Cascading of Dual-Tracker. The 20th National Conference on Image and Graphics (NCIG), 2020.
 
 * Lijia zhang, Yanmei Dong, and Yuwei Wu. [Multi-layer CNN Features Aggregation for Real-time Visual Tracking](https://ieeexplore.ieee.org/document/8546079). Proceedings of International Conference on Pattern Recognition (ICPR), 2018: 2404-2409.
 
-* Yanmei Dong, Min Yang, Mingtao Pei. [Visual tracking with sparse correlation filters](https://ieeexplore.ieee.org/document/7532395). Proceedings of IEEE International Conference on Image Processing (ICIP), 2016: 439-443.
+* Yanmei Dong, Min Yang, and Mingtao Pei. [Visual tracking with sparse correlation filters](https://ieeexplore.ieee.org/document/7532395). Proceedings of IEEE International Conference on Image Processing (ICIP), 2016: 439-443.
 
 * Changyong Yu, Min Yang, Yanmei Dong, Mingtao Pei, and Yunde Jia. [Online Multi-Person Tracking based on Metric Learning](https://link.springer.com/chapter/10.1007/978-3-319-48890-5_13). Proceedings of Pacific Rim Conference on Multimedia (PCM), 2016: 130-140.
 
-* Yanmei Dong, Mingtao Pei, Xiameng Qin. [Vehicle Color Recognition Based on License Plate Color](https://ieeexplore.ieee.org/document/7016897). Proceedings of International Conference on Computational Intelligence and Security (CIS), 2014: 264-267.
+* Yanmei Dong, Mingtao Pei, and Xiameng Qin. [Vehicle Color Recognition Based on License Plate Color](https://ieeexplore.ieee.org/document/7016897). Proceedings of International Conference on Computational Intelligence and Security (CIS), 2014: 264-267.
 
 * Zhen Dong, Mingtao Pei, Yang He, Ting Liu, Yanmei Dong, and Yunde Jia. [Vehicle Type Classification Using Unsupervised Convolutional Neural Network](https://ieeexplore.ieee.org/document/6976750). Proceedings of International Conference on Pattern Recognition (ICPR), 2014: 172-177.
