@@ -34,7 +34,7 @@
 
 
 ## Publications
-* Yanmei Dong, Mingtao Pei, Lijia Zhang, Bin Xu, Yuwei Wu, and Yunde Jia. Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots. International Journal of Social Robotics(SORO)(Accepted).
+* Yanmei Dong, Mingtao Pei, Lijia Zhang, Bin Xu, Yuwei Wu, and Yunde Jia. [Stitching Videos from a Fisheye Lens Camera and a Wide-Angle Lens Camera for Telepresence Robots](https://link.springer.com/article/10.1007/s12369-020-00744-8). International Journal of Social Robotics(SORO), 2021 (online).
 
 * Yanmei Dong, Yunde Jia, Weichao Shen, and Yuwei Wu. [Can You Easily Perceive the Local Environment? A User Interface with One Stitched Live Video for Mobile Robotic Telepresence Systems](https://www.tandfonline.com/doi/full/10.1080/10447318.2019.1685194). International Journal of Human-Computer Interaction (IJHCI), 2020, 36(8): 736–747.
 
