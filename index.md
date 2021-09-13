@@ -42,7 +42,7 @@
 
 * Wenju Huang, Yanmei Dong, Yuwei Wu, and Yunde Jia. Visual Tracking via Dynamic Cascading of Dual-Tracker. The 20th National Conference on Image and Graphics (NCIG), 2020.
 
-* Lijia zhang, Yanmei Dong, and Yuwei Wu. [Multi-layer CNN Features Aggregation for Real-time Visual Tracking](https://ieeexplore.ieee.org/document/8546079). Proceedings of International Conference on Pattern Recognition (ICPR), 2018: 2404-2409.
+* Lijia Zhang, Yanmei Dong, and Yuwei Wu. [Multi-layer CNN Features Aggregation for Real-time Visual Tracking](https://ieeexplore.ieee.org/document/8546079). Proceedings of International Conference on Pattern Recognition (ICPR), 2018: 2404-2409.
 
 * Yanmei Dong, Min Yang, and Mingtao Pei. [Visual tracking with sparse correlation filters](https://ieeexplore.ieee.org/document/7532395). Proceedings of IEEE International Conference on Image Processing (ICIP), 2016: 439-443.
 
