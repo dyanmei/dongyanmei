@@ -25,7 +25,7 @@
     </td>
     <td width="80%">
       <h1>Yanmei Dong</h1>
-      <p>Yanmei Dong is a lecturer at Tus College of Digit at Guangxi University of Science and Technology (GXUST). She received the Ph.D. degree in computer science and technology from Beijing Institute of Technology (BIT) in 2020, under the supervision of Prof. Mingtao Pei and Prof. Yunde Jia, and received the M.S. degree and the B.S. degree from BIT in 2015 and 2013, respectively. Her research interests lie in the field of Computer Vision and Human-Computer Interaction.
+      <p>Yanmei Dong is a lecturer at Tus College of Digit at Guangxi University of Science and Technology (GXUST). She received the Ph.D. degree in computer science and technology from Beijing Institute of Technology (BIT) in 2020, under the supervision of <a href="https://peimingtao.github.io/index.html">Prof. Mingtao Pei</a> and Prof. Yunde Jia, and received the M.S. degree and the B.S. degree from BIT in 2015 and 2013, respectively. Her research interests lie in the field of Computer Vision and Human-Computer Interaction.
       </p>
       <p><b>Email：dongyanmei@gxust.edu.cn</b></p>
     </td>
